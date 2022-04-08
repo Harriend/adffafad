@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(88, 173, 248);
+}
+
+.intro{
+    font-size: 22px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+.i{
+    color: white;
+}
+
+.it{
+    color: white;
+    font-size: 25px;
+}
+
+.labels{
+    font-size: 16px;
+}
+
+#camera{
+    border-style: dashed;
+}
+
+#Snapshot{
+    border-style: dashed;
+}
+
+.buttons{
+    border-radius: 5px;
+}
+
+.labels{
+    background-color: rgb(32, 239, 32);
+    width: 25%;
+    border-radius: 8px;
+}
